@@ -13,8 +13,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>458</string>
@@ -29,7 +29,7 @@
 	<key>guidesAreVisible</key>
 	<true/>
 	<key>lastCheckDate</key>
-	<date>2016-07-29T12:17:58Z</date>
+	<date>2016-07-29T12:20:28Z</date>
 	<key>layout</key>
 	<dict>
 		<key>currentInspectorPane</key>
@@ -173,7 +173,7 @@
 			</array>
 		</dict>
 		<key>keyframeTimelineHeight</key>
-		<real>130.5</real>
+		<real>53</real>
 		<key>mainWindowFrame</key>
 		<string>125 130 1170 747 0 0 1440 877 </string>
 		<key>openTabs</key>
@@ -332,7 +332,7 @@
 						<integer>60</integer>
 					</dict>
 					<key>canvasSize</key>
-					<string>{1628, 934}</string>
+					<string>{1693, 970}</string>
 					<key>hypeScene</key>
 					<dict>
 						<key>backgroundColor</key>
@@ -357,7 +357,7 @@
 					<key>rootSymbolControllerOid</key>
 					<string>2</string>
 					<key>scrollViewOffset</key>
-					<string>{432, 472}</string>
+					<string>{922, 0}</string>
 				</dict>
 			</array>
 		</dict>
@@ -382,10 +382,10 @@
 	<array>
 		<dict>
 			<key>documentIdentifier</key>
-			<string>E001E4B7-E7DE-4DF2-99D2-245B63BD1F78-34605-000123154A39C61A</string>
+			<string>69E5EC0C-54DE-4E3F-8709-C2DB54FED449-34716-0001235DBB73C978</string>
 			<key>selectedObjects</key>
 			<array>
-				<string>62</string>
+				<string>29</string>
 			</array>
 			<key>symbol</key>
 			<dict>
@@ -995,27 +995,27 @@
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#E8EBED</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1139,15 +1139,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>1px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#E8EBED</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>28</key>
@@ -1160,9 +1160,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#686868</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1250,12 +1250,6 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>19</string>
@@ -1265,6 +1259,12 @@
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>501px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1286,36 +1286,36 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#686868</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>29</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthBottom</string>
+							<string>BorderWidthLeft</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>BackgroundColor</string>
 							<key>objectValue</key>
-							<string>div</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
-							<string>BorderColorBottom</string>
-							<key>objectValue</key>
-							<string>#D8DDE4</string>
+							<string>#000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
 							<string>ExplicitDimensions</string>
 							<key>objectValue</key>
 							<string>YES</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>BorderColorBottom</string>
+							<key>objectValue</key>
+							<string>#D8DDE4</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1417,7 +1417,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>22</string>
+							<string>24</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1435,19 +1435,19 @@
 							<key>identifier</key>
 							<string>DisplayName</string>
 							<key>objectValue</key>
-							<string>矩形 1</string>
+							<string>顶层！！！！！</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BorderWidthLeft</string>
+							<string>BorderWidthBottom</string>
 							<key>objectValue</key>
 							<string>0px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>BackgroundColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#000000</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>4</key>
@@ -1460,9 +1460,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#FFFFFF</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1554,12 +1554,6 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>2</string>
@@ -1569,6 +1563,12 @@
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>145px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1590,9 +1590,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#FFFFFF</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>5</key>
@@ -1605,9 +1605,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#888888</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1699,12 +1699,6 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
-							<key>objectValue</key>
-							<string>8px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>3</string>
@@ -1714,6 +1708,12 @@
 							<string>Width</string>
 							<key>objectValue</key>
 							<string>105px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>PaddingLeft</string>
+							<key>objectValue</key>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1735,9 +1735,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#888888</string>
+							<string>div</string>
 						</dict>
 					</array>
 					<key>59</key>
@@ -1750,9 +1750,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#BDBDBD</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1840,15 +1840,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>73px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>PaddingLeft</string>
 							<key>objectValue</key>
 							<string>8px</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>73px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1870,9 +1870,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#BDBDBD</string>
 						</dict>
 					</array>
 					<key>60</key>
@@ -1885,9 +1885,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#BDBDBD</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -1975,15 +1975,15 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>Width</string>
-							<key>objectValue</key>
-							<string>72px</string>
-						</dict>
-						<dict>
-							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
 							<string>21</string>
+						</dict>
+						<dict>
+							<key>identifier</key>
+							<string>Width</string>
+							<key>objectValue</key>
+							<string>72px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2005,18 +2005,18 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#BDBDBD</string>
 						</dict>
 					</array>
 					<key>62</key>
 					<array>
 						<dict>
 							<key>identifier</key>
-							<string>OriginalWidth</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>1920px</string>
+							<string>div</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2152,9 +2152,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>OriginalWidth</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>1920px</string>
 						</dict>
 					</array>
 					<key>63</key>
@@ -2319,7 +2319,7 @@
 							<key>identifier</key>
 							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>23</string>
+							<string>22</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2464,9 +2464,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TagName</string>
+							<string>TextColor</string>
 							<key>objectValue</key>
-							<string>div</string>
+							<string>#BDBDBD</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2548,9 +2548,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>PaddingLeft</string>
+							<string>ZIndex</string>
 							<key>objectValue</key>
-							<string>8px</string>
+							<string>23</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2560,9 +2560,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>ZIndex</string>
+							<string>PaddingLeft</string>
 							<key>objectValue</key>
-							<string>24</string>
+							<string>8px</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -2584,9 +2584,9 @@
 						</dict>
 						<dict>
 							<key>identifier</key>
-							<string>TextColor</string>
+							<string>TagName</string>
 							<key>objectValue</key>
-							<string>#BDBDBD</string>
+							<string>div</string>
 						</dict>
 					</array>
 				</dict>
@@ -2855,7 +2855,7 @@
 							</dict>
 							<dict>
 								<key>duration</key>
-								<real>4.8333333730697632</real>
+								<real>4.8333334922790527</real>
 								<key>endValue</key>
 								<dict>
 									<key>identifier</key>
@@ -2896,7 +2896,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>EFE1A94E-3BE0-40B0-AF69-32293C01FF7A-34605-000123152399D936</string>
+									<string>2E534983-7A2D-4913-8086-5D989B44D3C3-34716-0001235D96F540A7</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>62</string>
@@ -2999,7 +2999,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>EFE1A94E-3BE0-40B0-AF69-32293C01FF7A-34605-000123152399D936</string>
+									<string>2E534983-7A2D-4913-8086-5D989B44D3C3-34716-0001235D96F540A7</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>62</string>
@@ -3066,7 +3066,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>EFE1A94E-3BE0-40B0-AF69-32293C01FF7A-34605-000123152399D936</string>
+									<string>2E534983-7A2D-4913-8086-5D989B44D3C3-34716-0001235D96F540A7</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>62</string>
@@ -3372,7 +3372,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>85A2C093-FBA9-41BB-98E7-2A05BBB4BE3E-34605-00012315239D28BE</string>
+									<string>230F0457-FE3D-4969-801C-7C49AA97AB63-34716-0001235D96F8B770</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>62</string>
@@ -3432,7 +3432,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>85A2C093-FBA9-41BB-98E7-2A05BBB4BE3E-34605-00012315239D28BE</string>
+									<string>230F0457-FE3D-4969-801C-7C49AA97AB63-34716-0001235D96F8B770</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>62</string>
@@ -3492,7 +3492,7 @@
 										<false/>
 									</dict>
 									<key>oid</key>
-									<string>85A2C093-FBA9-41BB-98E7-2A05BBB4BE3E-34605-00012315239D28BE</string>
+									<string>230F0457-FE3D-4969-801C-7C49AA97AB63-34716-0001235D96F8B770</string>
 								</dict>
 								<key>referenceOid</key>
 								<string>62</string>
